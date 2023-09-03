@@ -16,7 +16,7 @@ Please feel free to reach out and provide any feedback 😀
 
 **Interactive Visualization:** Users can visualize multiple asset price paths to gain insights into potential future outcomes.
 
-**CSV Export:** Simulated asset prices can be exported to a CSV file for further analysis or record-keeping. The generated CSV document will have each generated simulation as a column in the table, with each row representing a single time step. 
+**CSV Export:** Simulated asset prices can be exported to a CSV file for further analysis or record-keeping. The generated CSV document will have each generated simulation as a column in the table, with each row representing a single time step. The first row will always be the value of the Initial Asset Price.
 
 **Error Handling:** Input validation and error handling ensure that user inputs are within reasonable ranges and formats.
 
