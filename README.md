@@ -1,5 +1,6 @@
 # Monte Carlo Simulation: Asset Price Prediction
 
+![Demo Monte Carlo Simulated graph](https://github.com/haidnav/MonteCarloSimulation/blob/main/demo.png)
 
 ## Overview
 This project is a Monte Carlo simulation tool that predicts future asset prices using a simplified version of the geometric Brownian motion model. It's designed to provide a practical demonstration of the Monte Carlo method and its application in financial modeling.
