@@ -22,11 +22,11 @@ Please feel free to reach out and provide any feedback 😀
 
 **Backtesting:** Users can input past data to test accuracy of the model. Please note that due to the use of a simplified version of the geometric Brownian motion model, this app will likely not provide the best results for real time trading as it excludes a range of external factors, such as:
 
-**External events:** e.g news 
+- **External events:** e.g news 
 
-**Assumptions:** The model assumes that asset returns are normally distributed, which may not hold in reality, especially during extreme market events.
+- **Assumptions:** The model assumes that asset returns are normally distributed, which may not hold in reality, especially during extreme market events.
 
-**Lack of trading strategy:** Backtesting often involves implementing trading strategies based on historical data. The basic Monte Carlo model doesn't include trading rules or strategies. 
+- **Lack of trading strategy:** Backtesting often involves implementing trading strategies based on historical data. The basic Monte Carlo model doesn't include trading rules or strategies. 
 
 However, i do think that this app could serve as a good educational tool for users seeking to understand the fundamental principles of Monte Carlo simulations and how asset prices can be projected using simplified models.
 
