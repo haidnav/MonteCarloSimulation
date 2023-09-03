@@ -33,20 +33,20 @@ However, i do think that this app could serve as a good educational tool for use
 ## Usage
 Install the required dependencies using **`pip install -r requirements.txt`**
 
-Run the app with Streamlit using **streamlit run app.py**.
+Run the app with Streamlit using **`streamlit run app.py`**.
 
 Enter the desired input parameters and observe the real-time asset price simulation.
 
 Click the "Export to CSV" button to save the simulated asset prices to a CSV file.
 
-Dependencies
-**Streamlit**
+### Dependencies
+- Streamlit
 
-**NumPy**
+- NumPy
 
-**Matplotlib**
+- Matplotlib
 
-**Pandas**
+- Pandas
 
 **Credits:**
 This app was created by Haider Naveed. You can find the source code and additional projects on  my GitHub profile.
