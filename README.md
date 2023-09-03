@@ -1,12 +1,12 @@
-Monte Carlo Simulation: Asset Price Prediction
+# Monte Carlo Simulation: Asset Price Prediction
 
 
-Overview
+## Overview
 This project is a Monte Carlo simulation tool that predicts future asset prices using a simplified version of the geometric Brownian motion model. It's designed to provide a practical demonstration of the Monte Carlo method and its application in financial modeling.
 
 The app allows users to input various parameters such as the initial asset price, annualized rate of return, annualized volatility, time horizon, number of time steps, and the number of simulations. After inputting these parameters, users can visualize the simulated asset price paths and export the results to a CSV file.
 
-Features
+### Features
 Real-Time Simulation: The app provides real-time updates of the asset price simulation as users adjust input parameters, allowing for interactive exploration.
 
 Interactive Visualization: Users can visualize multiple asset price paths to gain insights into potential future outcomes.
