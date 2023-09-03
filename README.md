@@ -7,6 +7,10 @@ This project is a Monte Carlo simulation tool that predicts future asset prices 
 
 The app allows users to input various parameters such as the initial asset price, annualised rate of return, annualised volatility, time horizon, number of time steps, and the number of simulations. After inputting these parameters, users can visualise the simulated asset price paths and export the results to a CSV file.
 
+Demo: https://montecarlosimulation-ahkunsjbngjmdwof685dzz.streamlit.app/
+
+Please feel free to reach out and provide any feedback 😀
+
 ## Features
 **Real-Time Simulation:** The app provides real-time updates of the asset price simulation as users adjust input parameters, allowing for interactive exploration.
 
