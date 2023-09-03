@@ -37,9 +37,13 @@ Click the "Export to CSV" button to save the simulated asset prices to a CSV fil
 
 Dependencies
 **Streamlit**
+
 **NumPy**
+
 **Matplotlib**
+
 **Pandas**
+
 Credits
 This app was created by Haider Naveed. You can find the source code and additional projects on  my GitHub profile.
 
