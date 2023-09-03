@@ -9,7 +9,7 @@ def main():
     st.title('Monte Carlo Simulation: Asset Price Prediction')
     st.markdown('Welcome to my Streamlit Monte Carlo Asset Price Prediction model, this uses a simplified version of the geometric Brownian motion model to simulate future asset prices.')
     st.markdown('''The formula i have used is as follows
-                S_t = S_(t-1) * e^(drift + diffusion)''')
+                **S_t = S_(t-1) * e^(drift + diffusion)**''')
     st.markdown('''
 **S_t**: This represents the asset price at the current time step (t).
 
