@@ -31,7 +31,7 @@ Please feel free to reach out and provide any feedback 😀
 However, i do think that this app could serve as a good educational tool for users seeking to understand the fundamental principles of Monte Carlo simulations and how asset prices can be projected using simplified models.
 
 ## Usage
-Install the required dependencies using `pip install -r requirements.txt`
+Install the required dependencies using `**pip install -r requirements.txt**`
 
 Run the app with Streamlit using **streamlit run app.py**.
 
