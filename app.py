@@ -52,10 +52,17 @@ So, the formula calculates the future asset price by taking the previous asset p
 
     def export_to_csv(asset_paths):
         df = pd.DataFrame(asset_paths, columns=[
-                          f'Simulation {i+1}' for i in range(n_simulations)])
-        df.to_csv('simulated_asset_prices.csv', index=False)
-        st.success(
-            'Simulated asset prices exported to simulated_asset_prices.csv')
+            f'Simulation {i+1}' for i in range(n_simulations)])
+        csv_data = df.to_csv(index=False)
+
+        # Create a download button
+        st.download_button(
+            label="Download Data",
+            data=csv_data.encode(),
+            file_name='simulated_asset_prices.csv',
+            key='csv_export_button'  # Optional key to track the button
+        )
+
     if st.button('Export to CSV'):
         export_to_csv(asset_paths)
 
