@@ -44,7 +44,7 @@ Dependencies
 
 **Pandas**
 
-Credits
+**Credits:**
 This app was created by Haider Naveed. You can find the source code and additional projects on  my GitHub profile.
 
 License
